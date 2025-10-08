@@ -1,0 +1,15 @@
+# Python cache klasörleri
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code klasörü
+.vscode/
+
+# Jupyter not defteri geçici dosyaları
+.ipynb_checkpoints/
+
+# İşletim sistemi dosyaları
+.DS_Store
+Thumbs.db
